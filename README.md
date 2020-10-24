@@ -1,5 +1,5 @@
 # passwordcracker
-Simple Password Cracker written in BASIC by Andy Glenn
+Simple Password Cracker by Andy Glenn written in BASIC
 
 Here is a simple password cracker written in BASIC. It's only intended for fun and learning purposes.
 
