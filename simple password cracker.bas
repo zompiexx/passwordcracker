@@ -1,3 +1,5 @@
+1 REM *     PASSWORD CRACKER BY ANDY GLENN      *
+2 REM *     (C) 2020, ALL RIGHTS RESERVED       *
 10 dim ghistory$(1000000)
 20 let guess$ = ""
 30 let attempts = 0
